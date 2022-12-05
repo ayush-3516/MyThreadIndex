@@ -1,0 +1,2 @@
+- [What are "Sweeper Bots" / "Scavengers"?](https://twitter.com/ayushXeth/status/1597960207023296512?s=20&t=tdAA7VNiGaXzFrpExsiRMw) and How can you get rid of them if you have them, if not, what are the necessary steps you should be taking to avoid them?
+- [What is `Sharding`?](https://twitter.com/ayushXeth/status/1580779986620862464?s=20&t=tdAA7VNiGaXzFrpExsiRMw)
