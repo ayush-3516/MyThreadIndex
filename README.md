@@ -1,3 +1,6 @@
+# Newsletter Articles
+- [Oracles for Smart Contracts]("https://mouse-run.beehiiv.com/p/smart-contract-oracle")
+
 # Rust Series
 - [Introduction to Rust]("https://twitter.com/ayushXeth/status/1613891201031372801?s=20&t=EXnqtRDMX4FZIUaFJGfO_Q")
 - [Rust Installation]("https://twitter.com/ayushXeth/status/1613915070941245441?s=20&t=VGkRv5M5ACaIOLWT7H90mg")
