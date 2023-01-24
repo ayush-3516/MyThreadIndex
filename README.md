@@ -8,8 +8,10 @@
 - [Introduction to Cargo](https://twitter.com/ayushXeth/status/1614534743282049026?s=20&t=P7k_b5AOlt33Rpneiz_Qug)
 - [Variables, Data Types and Immutability in Rust](https://twitter.com/ayushXeth/status/1616060330681208832?s=20&t=Qak-9atk3VtxHSuWx_KafA)
 - [Functions in Rust](https://twitter.com/ayushXeth/status/1616392671232417793?s=20&t=wCpLQ3F8c9hvvTW1X6K_qA)
+- [Control Flow](https://twitter.com/ayushXeth/status/1616719047982460929?s=20&t=qugm5fZ9VT02soYw8gC7Yg)
 
 # Concept Threads
+- [Stack and Heap](https://twitter.com/ayushXeth/status/1617879802765271041?s=20&t=rul-Iull_zFz0cpt6dXAKQ)
 - [Layers of Blockchain Architecture](https://twitter.com/ayushXeth/status/1615361410460192771?s=20&t=kU5r1awwEk4mJWSz85cZGQ)
 - [What are "Sweeper Bots" / "Scavengers"?](https://twitter.com/ayushXeth/status/1597960207023296512?s=20&t=tdAA7VNiGaXzFrpExsiRMw) and How can you get rid of them if you have them, if not, what are the necessary steps you should be taking to avoid them?
 - [What is `Sharding`?](https://twitter.com/ayushXeth/status/1580779986620862464?s=20&t=tdAA7VNiGaXzFrpExsiRMw)
