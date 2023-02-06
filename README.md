@@ -4,10 +4,11 @@
 # Rust Series
 - [Introduction to Rust](https://twitter.com/ayushXeth/status/1613891201031372801?s=20&t=EXnqtRDMX4FZIUaFJGfO_Q)
 - [Rust Installation](https://twitter.com/ayushXeth/status/1613915070941245441?s=20&t=VGkRv5M5ACaIOLWT7H90mg)
-- ["Hello World and Structure of a program in Rust"](https://twitter.com/ayushXeth/status/1614217887291674625?s=20&t=pk6RueZtwuNb5jqCeJdE2g)
+- [Hello World and Structure of a program in Rust](https://twitter.com/ayushXeth/status/1614217887291674625?s=20&t=pk6RueZtwuNb5jqCeJdE2g)
 - [Introduction to Cargo](https://twitter.com/ayushXeth/status/1614534743282049026?s=20&t=P7k_b5AOlt33Rpneiz_Qug)
 - [Variables, Data Types and Immutability in Rust](https://twitter.com/ayushXeth/status/1616060330681208832?s=20&t=Qak-9atk3VtxHSuWx_KafA)
 - [Functions in Rust](https://twitter.com/ayushXeth/status/1616392671232417793?s=20&t=wCpLQ3F8c9hvvTW1X6K_qA)
+- [Strings in Rust](https://twitter.com/ayushXeth/status/1618552980642615311?s=20&t=ugdoHuKisYhsLeqWPC3p2Q)
 - [Control Flow](https://twitter.com/ayushXeth/status/1616719047982460929?s=20&t=qugm5fZ9VT02soYw8gC7Yg)
 
 # Concept Threads
@@ -51,4 +52,3 @@
 - [What is Proof of Work(PoW)?](https://twitter.com/ayushXeth/status/1524760129324810241?s=20&t=uButOlhN0Cn7xaHf7g15Cg)
 - [What roles do Miners have in the Blockchain Ecosystem?](https://twitter.com/ayushXeth/status/1523665336091901954?s=20&t=8uIAo3FZCc6kjkp7k96PQw)
 - [What is a Consensus Algorithm? And What is it's role in Blockchain Networks?](https://twitter.com/ayushXeth/status/1523252627068243968?s=20&t=xgbxSAypMGCwssmt1MroiA)
-- []
