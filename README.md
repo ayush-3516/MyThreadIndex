@@ -10,6 +10,8 @@
 - [Functions in Rust](https://twitter.com/ayushXeth/status/1616392671232417793?s=20&t=wCpLQ3F8c9hvvTW1X6K_qA)
 - [Strings in Rust](https://twitter.com/ayushXeth/status/1618552980642615311?s=20&t=ugdoHuKisYhsLeqWPC3p2Q)
 - [Control Flow](https://twitter.com/ayushXeth/status/1616719047982460929?s=20&t=qugm5fZ9VT02soYw8gC7Yg)
+- [How multiple variables interact with the same data in different ways and How memory is allocated differently across various types](https://twitter.com/ayushXeth/status/1622878873322164224?s=20&t=DbvRNRYb0peF0LBksIT_hg)
+- [How Data is copied onto Stack-only using the Copy trait in Rust](https://twitter.com/ayushXeth/status/1623951831461412864?s=20&t=iWadOyjIrz3JSj7uB4bIuw)
 
 # Concept Threads
 - [Stack and Heap](https://twitter.com/ayushXeth/status/1617879802765271041?s=20&t=rul-Iull_zFz0cpt6dXAKQ)
