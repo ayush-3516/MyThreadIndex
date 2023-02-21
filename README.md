@@ -10,10 +10,15 @@
 - [Functions in Rust](https://twitter.com/ayushXeth/status/1616392671232417793?s=20&t=wCpLQ3F8c9hvvTW1X6K_qA)
 - [Strings in Rust](https://twitter.com/ayushXeth/status/1618552980642615311?s=20&t=ugdoHuKisYhsLeqWPC3p2Q)
 - [Control Flow](https://twitter.com/ayushXeth/status/1616719047982460929?s=20&t=qugm5fZ9VT02soYw8gC7Yg)
+- [Memory and Allocation](https://twitter.com/ayushXeth/status/1624303681633124354?s=20)
 - [How multiple variables interact with the same data in different ways and How memory is allocated differently across various types](https://twitter.com/ayushXeth/status/1622878873322164224?s=20&t=DbvRNRYb0peF0LBksIT_hg)
 - [How Data is copied onto Stack-only using the Copy trait in Rust](https://twitter.com/ayushXeth/status/1623951831461412864?s=20&t=iWadOyjIrz3JSj7uB4bIuw)
+- [Ownership](https://twitter.com/ayushXeth/status/1625454973260808193?s=20)
+- [References and Borrowing](https://twitter.com/ayushXeth/status/1627998474989080577?s=20)
+
 
 # Concept Threads
+- [Introduction to Orca(DeFi for Beginners)](https://twitter.com/ayushXeth/status/1626677473026129920?s=20)
 - [Stack and Heap](https://twitter.com/ayushXeth/status/1617879802765271041?s=20&t=rul-Iull_zFz0cpt6dXAKQ)
 - [Layers of Blockchain Architecture](https://twitter.com/ayushXeth/status/1615361410460192771?s=20&t=kU5r1awwEk4mJWSz85cZGQ)
 - [What are "Sweeper Bots" / "Scavengers"?](https://twitter.com/ayushXeth/status/1597960207023296512?s=20&t=tdAA7VNiGaXzFrpExsiRMw) and How can you get rid of them if you have them, if not, what are the necessary steps you should be taking to avoid them?
