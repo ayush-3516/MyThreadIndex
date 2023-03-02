@@ -15,6 +15,7 @@
 - [How Data is copied onto Stack-only using the Copy trait in Rust](https://twitter.com/ayushXeth/status/1623951831461412864?s=20&t=iWadOyjIrz3JSj7uB4bIuw)
 - [Ownership](https://twitter.com/ayushXeth/status/1625454973260808193?s=20)
 - [References and Borrowing](https://twitter.com/ayushXeth/status/1627998474989080577?s=20)
+- [Slices](https://twitter.com/ayushXeth/status/1630098264862195712?s=20)
 
 
 # Concept Threads
